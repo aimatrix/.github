@@ -1,3 +1,0 @@
-= Asciidoc version of Aimatrix
-
-some content here.
